@@ -5,8 +5,8 @@ This repository contains my beginner frontend projects using HTML and CSS
 -clean html structure
 -basic css styling
 ## Tech stack
--HTML
--CSS
--Javascript
+- HTML
+- CSS
+- Javascript
 
 
