@@ -7,6 +7,6 @@ This repository contains my beginner frontend projects using HTML and CSS
 ## Tech stack
 -HTML
 -CSS
-- Javascript
+-Javascript
 
 
